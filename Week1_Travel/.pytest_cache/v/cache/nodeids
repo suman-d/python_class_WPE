@@ -1,0 +1,9 @@
+[
+  "test.py::test_no_places",
+  "test.py::test_one_place",
+  "test.py::test_many_places",
+  "test.py::test_invalid_input",
+  "test.py::test_sorting_cities",
+  "test.py::test_sorting_countries",
+  "test.py::test_counting"
+]
