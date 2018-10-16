@@ -1,0 +1,5 @@
+[
+  "test.py::test_read_logs",
+  "test.py::test_check_keys",
+  "test.py::test_check_values"
+]
